@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ricardogenaro99/ricardogenaro99/blob/master/devcard.svg" width="400" alt="Ricardo Genaro's Dev Card"/></a>
+
 <!--
 **ricardogenaro99/ricardogenaro99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
