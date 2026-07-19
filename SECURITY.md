@@ -1,29 +1,29 @@
-# Security Policy
+# Política de Seguridad
 
-## Supported Versions
+## Versiones con soporte
 
-This is a GitHub profile README repository. It contains:
-- Profile `README.md`
-- GitHub Actions workflows for automating devcard updates
+Este es un repositorio de perfil de GitHub. Contiene:
+- El `README.md` del perfil
+- Workflows de GitHub Actions para automatizar la actualización de la DevCard
 
-| Component | Status |
-|-----------|--------|
-| GitHub Actions workflows | ✅ Actively maintained |
+| Componente | Estado |
+|------------|--------|
+| Workflows de GitHub Actions | ✅ Mantenido activamente |
 
-## Reporting a Vulnerability
+## Reportar una Vulnerabilidad
 
-If you discover a security vulnerability (e.g., a workflow that could be exploited via injection), please report it responsibly:
+Si descubres una vulnerabilidad de seguridad (por ejemplo, un workflow que pueda ser explotado mediante inyección), por favor repórtala de forma responsable:
 
-1. **Do NOT open a public GitHub Issue** for security vulnerabilities.
-2. Contact me directly via email: [genaro.choquehuanca.palli@gmail.com](mailto:genaro.choquehuanca.palli@gmail.com)
-3. Include a description of the vulnerability and steps to reproduce.
+1. **NO abras un Issue público en GitHub** para vulnerabilidades de seguridad.
+2. Contáctame directamente por correo: [genaro.choquehuanca.palli@gmail.com](mailto:genaro.choquehuanca.palli@gmail.com)
+3. Incluye una descripción de la vulnerabilidad y los pasos para reproducirla.
 
-I will acknowledge your report within **48 hours** and work on a fix promptly.
+Confirmaré tu reporte en un plazo de **48 horas** y trabajaré en una solución a la brevedad.
 
-## Security Best Practices Applied
+## Buenas Prácticas de Seguridad Aplicadas
 
-- ✅ GitHub Actions use pinned versions (`actions/checkout@v4`)
-- ✅ Workflows use `[skip ci]` to avoid recursive triggers
-- ✅ Minimal permissions: only `contents: write` where needed
-- ✅ No secrets stored beyond GitHub's built-in `GITHUB_TOKEN`
-- ✅ Dependabot enabled to keep Actions up to date
+- ✅ Las GitHub Actions usan versiones fijas (`actions/checkout@v4`)
+- ✅ Los workflows usan `[skip ci]` para evitar disparadores recursivos
+- ✅ Permisos mínimos: solo `contents: write` donde es necesario
+- ✅ Sin secretos almacenados más allá del `GITHUB_TOKEN` integrado de GitHub
+- ✅ Dependabot habilitado para mantener las Actions actualizadas

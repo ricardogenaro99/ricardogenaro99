@@ -1,7 +1,7 @@
 version: 2
 
 updates:
-  # Keep GitHub Actions up to date automatically
+  # Mantiene las GitHub Actions actualizadas automáticamente
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
@@ -12,5 +12,5 @@ updates:
     commit-message:
       prefix: "chore(deps)"
     labels:
-      - "dependencies"
+      - "dependencias"
       - "github-actions"
