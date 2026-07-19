@@ -12,7 +12,11 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write # needed to commit the updated image
+      contents: write   # needed to commit the updated devcard image
+      actions: read     # read-only access to actions
+      checks: none      # no check access needed
+      issues: none      # no issue access needed
+      pull-requests: none # no PR access needed
 
     steps:
       - name: Checkout repository
