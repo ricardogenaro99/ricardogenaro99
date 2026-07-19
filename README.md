@@ -11,7 +11,7 @@
 
 <br/>
 
-<a href="https://daily.dev/ricardogenaro99"><img src="https://api.daily.dev/devcards/v2/6V7i5p2qmnvQChDvhVigj.png?type=default&r=jgw" width="356" alt="Ricardo Genaro's Dev Card"/></a>
+<a href="https://daily.dev/ricardogenaro99"><img src="./assets/devcard.png" width="356" alt="Ricardo Genaro's Dev Card"/></a>
 
 </div>
 
