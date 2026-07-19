@@ -92,9 +92,9 @@ Me apasiona construir software que escale, que resista, y que se entregue rápid
 
 <div align="center">
 
-![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardogenaro99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardogenaro99&theme=github_dark)](https://github.com/ricardogenaro99)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardogenaro99&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ricardogenaro99&theme=github_dark" width="48%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ricardogenaro99&theme=github_dark" width="48%" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ricardogenaro99&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
